@@ -1,20 +1,20 @@
 # ChessAIM 
-Projet de Programmation Informatique - Semestre 1 - 2017
+Programming Project - Semester 1 - 2017
 
-## Descriptif
-L'objectif de notre projet est de créer un jeu d'échec web multipages.
+## 
+Our purpose is creating a multipage website of a chess game.
 
-Languages utilisés
+Languages :
   - HTML
   - CSS
   - Javascript
 
-
+## About us
 ##### Contact
 - pi.s1.2017.echecs.intech@gmail.com
 - IN'TECH, 74 bis, avenue Maurice Thorez 94200 Ivry-sur-Seine
 
-##### Membres
+##### Members
 - Sid Bennaceur
 - Henri Fumey-Humbert
 - Paul Mercier-Handisyde 
